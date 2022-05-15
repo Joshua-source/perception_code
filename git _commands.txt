@@ -9,3 +9,5 @@ git status -- check for untracked files
 git branch -a --- to get list of all branches
 
 git checkout "branchname" to switch to that branch
+
+git pull to pull changes
